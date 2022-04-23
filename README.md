@@ -44,7 +44,7 @@ An open-source tiny, light weight javascript library for state management & igni
 Contributions are welcome, see code of conduct.
 
 
-&copy; Humphrey Pietersen 2022. Licensed [GPL-3 License](#)
+&copy; Humphrey Pietersen 2022. Licensed [MIT](#)
 
 
 
