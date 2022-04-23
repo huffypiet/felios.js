@@ -3,7 +3,7 @@
 
 # Felios.js v0.0.1
 
-An open-source tiny, light weight javascript library for state management & igniting magic on the UI within the browser.
+An open-source tiny, light weight javascript HTML5 library for state management & igniting magic on the UI within the browser.
 
 
 ### Feature v0.0.1
