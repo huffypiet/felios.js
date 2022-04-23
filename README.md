@@ -15,7 +15,7 @@ An open-source tiny, light weight javascript HTML5 library for state management 
 - [x] Night Mode Toggling
 
 
-### Use cases
+### Some possible use cases
 
 - Realistic Native UI Prototyping.
 - Single page application.
