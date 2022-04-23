@@ -16,9 +16,9 @@ An open-source tiny, light weight javascript library for state management & igni
 
 
 
-### Use case
+### Use cases
 
-- Realistic UI Prototyping.
+- Realistic Native UI Prototyping.
 - Single page application.
 - One time call, components.
 
