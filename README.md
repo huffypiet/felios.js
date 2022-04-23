@@ -8,9 +8,11 @@ An open-source tiny, light weight javascript library for state management & igni
 
 ### Feature v0.0.1
 
-- [-] Trigger Events
-- [-] Notify Actions
-- [-] File Uploader [ uses php ]
+- [/] Trigger Events
+- [/] Notify Actions
+- [/] File Uploader [ uses php ]
+- [/] Real-time component rendering
+- [/] Night Mode Toggling
 
 
 
@@ -27,11 +29,9 @@ An open-source tiny, light weight javascript library for state management & igni
 
 ### Still to-do
 
-- [] Auto-refresh
-- [] Auto-suggestion Search
-- [] Real-time component rendering
-- [] Night Mode Toggling
-- [] Style Guide Generator
+- [x] Auto-refresh
+- [x] Auto-suggestion Search
+- [x] Style Guide Generator
 
 
 
