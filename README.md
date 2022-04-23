@@ -41,7 +41,7 @@ An open-source tiny, light weight javascript library for state management & igni
   Contributions are welcome, see code of conduct.
 
 
-&copy; Humphrey Pietersen 2022. Licensed [MIT](https://github.com/huffypiet/felios.js/blob/main/LICENSE)
+&copy; Humphrey Pietersen 2021-2022. Licensed [MIT](https://github.com/huffypiet/felios.js/blob/main/LICENSE)
 
 
 
