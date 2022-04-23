@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html lang="en_US">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0" />
+    <title> Felios - Retro Native Stateful UI </title>
+    
+</head>
+<body>
+    
+    <h1>Felios State Management</h1>
+    <h4>Menu Example</h4>
+    <div id="felios-menu" class="crude"></div>
+    <h4>Button Example</h4>
+    <div id="felios-button"></div>
+    <h4>Alerts Example</h4>
+    <div id="felios-alert-test"></div>
+    <div id="felios-alert-second"></div>
+    <div id="felios-alert-success"></div>
+    <div id="felios-alert-info"></div>
+    <div id="felios-alert-warning"></div>
+    <div id="felios-alert-danger"></div>
+    <h4>Form Example</h4>
+    <div id="felios-form"></div>
+    <h4>Switch Example</h4>
+    <span id="felios-switch"></span>
+    <h4>Modal Example</h4>
+    <div id="felios-modal"></div>
+    <h4>Side-Panel Example</h4>
+    <div id="felios-side-panel"></div>
+    <h4>Notification Example</h4>
+    <div id="felios-notification"></div>
+    <h4>Progress Example</h4>
+    <div id="felios-progress"></div>
+    <h4> Snackbar Example</h4>
+    <div id="felios-snackbar"></div>
+    <h4> File upload Example</h4>
+    <div id="felios-fileupload">
+        <form action="/filehandler.php" enctype="application/x-www-form-urlencoded; multipart" >
+            <input type="file">
+            <button class="submit" type="submit">Upload</button>
+        </form>
+        <br>
+        <br>
+    </div>
+</body>
+<script src="./felios.js"></script>
+<script src="./felios-button.js"></script>
+<script src="./felios-alert.js"></script>
+<script src="./felios-form.js"></script>
+<script src="./felios-switch.js"></script>
+<script src="./felios-modal.js"></script>
+<script src="./felios-side-panel.js"></script>
+<script src="./felios-notification.js"></script>
+<script src="./felios-progress.js"></script>
+<script src="./felios-menu.js"></script>
+<script src="./felios-snackbar.js"></script>
+<script src="./felios-fab-button.js"></script>
+</html>
