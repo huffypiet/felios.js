@@ -15,14 +15,11 @@ An open-source tiny, light weight javascript library for state management & igni
 - [x] Night Mode Toggling
 
 
-
 ### Use cases
 
 - Realistic Native UI Prototyping.
 - Single page application.
 - One time call, components.
-
-
 
 
 ### Still to-do
@@ -36,15 +33,15 @@ An open-source tiny, light weight javascript library for state management & igni
 
 ### Contributors
 
-- [ Humphrey Pietersen ](https://humphreypietersen.com/)
+     [ Humphrey Pietersen ](https://humphreypietersen.com/)
 
 
 ### Contribution
 
-Contributions are welcome, see code of conduct.
+    Contributions are welcome, see code of conduct.
 
 
-&copy; Humphrey Pietersen 2022. Licensed [MIT](#)
+&copy; Humphrey Pietersen 2022. Licensed [MIT](https://github.com/huffypiet/felios.js/blob/main/LICENSE)
 
 
 
