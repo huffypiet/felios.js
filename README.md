@@ -8,20 +8,18 @@ An open-source tiny, light weight javascript library for state management & igni
 
 ### Feature v0.0.1
 
-- [/] Trigger Events
-- [/] Notify Actions
-- [/] File Uploader [ uses php ]
-- [/] Real-time component rendering
-- [/] Night Mode Toggling
+- [x] Trigger Events
+- [x] Notify Actions
+- [x] File Uploader [ uses php ]
+- [x] Real-time component rendering
+- [x] Night Mode Toggling
 
 
 
 ### Use case
 
 - Realistic UI Prototyping.
-
 - Single page application.
-
 - One time call, components.
 
 
@@ -29,21 +27,21 @@ An open-source tiny, light weight javascript library for state management & igni
 
 ### Still to-do
 
-- [x] Auto-refresh
-- [x] Auto-suggestion Search
-- [x] Style Guide Generator
+- [ ] Auto-refresh
+- [ ] Auto-suggestion Search
+- [ ] Style Guide Generator
 
 
 
 
 ### Contributors
 
-- [Humphrey Pieterse](https://humphreypietersen.com/me)
+- [ Humphrey Pietersen ](https://humphreypietersen.com/)
 
 
 ### Contribution
 
-Contribution is welcome, so long as you agree to follow code of conduct.
+Contributions are welcome, see code of conduct.
 
 
 
