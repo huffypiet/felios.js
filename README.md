@@ -1,7 +1,7 @@
 
 
 
-# Felios.js v0.0.1
+# Felios.js v0.0.1 - Felios Lite Stateful JavaScript Library for Single Page Applications
 
 An open-source tiny, light weight HTML5 library for state management & igniting magic on the UI within the browser.
 
