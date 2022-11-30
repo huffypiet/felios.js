@@ -7,7 +7,7 @@ An open-source tiny, light weight HTML5 library for state management & igniting 
 
 **[Demo](https://huffypiet.github.io/felios.js/src)**
 
-### Feature v0.0.1
+### Feature
 
 - [x] Trigger Events
 - [x] Notify Actions
