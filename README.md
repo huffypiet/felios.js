@@ -5,7 +5,7 @@
 
 An open-source tiny, light weight HTML5 library for state management & igniting magic on the UI within the browser.
 
-**[Live Demo](https://huffypiet.github.io/felios.js/src)** **[Source](https://huffypiet.github.io/felios.js)**
+**[Live Demo](https://huffypiet.github.io/felios.js/src)**  |  **[Source Code](https://github.com/huffypiet/felios.js)**
 
 ### Feature
 
