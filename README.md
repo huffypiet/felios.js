@@ -10,7 +10,8 @@ An experimental open-source tiny, light weight HTML5 library for state managemen
 
 
 </div>
-![]('/demo/assets/media/iphone-12-pro.gif')
+![](/demo/assets/media/iphone-12-pro.gif)
+
 
 **[Live Demo](https://huffypiet.github.io/felios.js/demo/)**  |  **[Source Code](https://github.com/huffypiet/felios.js)**
 
