@@ -7,14 +7,13 @@ An experimental open-source tiny, light weight HTML5 library for state managemen
 
 
 
-<div style="background: white !important; display:block; height:400px;mind-height: 100%; width: auto; padding:4em; padding-bottom: 12em; margin-top:50px; border-radius: 2em">
+<div style="background: white !important; height:400px;mind-height: 100%; width: auto; padding:4em; padding-bottom: 12em; margin-top:50px; border-radius: 2em">
 
-<img src="./demo/assets/media/iphone-12-pro.gif" alt="" height=130% />
-
+![](./demo/assets/media/iphone-12-pro.gif)
 
 </div>
 
-![](./demo/assets/media/iphone-12-pro.gif)
+
 
 
 **[Live Demo](https://huffypiet.github.io/felios.js/demo)**  |  **[Source Code](https://github.com/huffypiet/felios.js)**
