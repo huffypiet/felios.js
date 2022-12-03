@@ -1,24 +1,50 @@
 
 
 
-# Felios.js 
+# Felios.js - Stateful Retro-Native UI
 
-An open-source tiny, light weight HTML5 library for state management & igniting magic on the UI within the browser.
+An experimental open-source tiny, light weight HTML5 library for state management & igniting magic on the UI within the browser.
 
 
 
 <div style="background: white !important; display:block; height:400px;mind-height: 100%; width: auto; padding:4em; padding-bottom: 12em; margin-top:50px; border-radius: 2em">
 
-<img src="./src/assets/media/iphone-12-pro.gif" alt="" height=130% />
+<img src="./demo/assets/media/iphone-12-pro.gif" alt="" height=130% />
 
 </div>
 
-**[Demo](https://huffypiet.github.io/felios.js/src)**
-=======
-**[Live Demo](https://huffypiet.github.io/felios.js/src)**  |  **[Source Code](https://github.com/huffypiet/felios.js)**
+
+**[Live Demo](https://huffypiet.github.io/felios.js/demo)**  |  **[Source Code](https://github.com/huffypiet/felios.js)**
+
+### Usage
+
+- Meant as a plugin, that you may adapt to your needs. 
+- Include the HTML template, and then the felios component specific script right before the ending or closing body HTML Tag, like shown below
+
+```html
+...
+	<body>
+					
+		<!--include HTML Template-->
+		<div id="felios-<component>">...</div>	
+
+		<div>Content</div>
+		<footer>..</foooter>
+		
+		<!--include javascript-->
+		<script src="./path/to/felios.js>"></script>
+		<script src="./path/to/felios-<component>"></script>
+	</body>
+...
+```
+
+- Replace `<component>`  in ``` felios-<component>``` with the component you wish to use, ex. `input`, `toggle`, `switch`, etc.
 
 
-### Feature
+
+## Releases
+### version 0.0.0.1 
+#### Features
 
 - [x] Trigger Events
 - [x] Notify Actions

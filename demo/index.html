@@ -5,27 +5,48 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, minimum-scale=1.0" />
-    <title> Felios - Retro Native Stateful UI </title>
+    <title> Felios.js - A Stateful Retro-Native UI [Experimental]</title>\
+    <style>
+    h4{
+        margin-top:80px;
+    }
+    h2,p{
+        opacity:.5;
+    }</style>
 </head>
 <body>
-    <h1>Felios State Management</h1>
+    <h1>Felios.js</h1>
+    <h2>A Stateful Retro-Native UI [Experimental]</h2>
+
     <h4>Menu Example</h4>
+    <p>Basic menubar example, that as well responsive on small screens</p>
     <div id="felios-menu" class="crude"></div>
+    
+     <h4>Alerts Example</h4>
+    <p>Simple Alerts that works by popover and toggle offs</p>
+        <div id="felios-alert-test"></div>
+        <div id="felios-alert-second"></div>
+        <div id="felios-alert-success"></div>
+        <div id="felios-alert-info"></div>
+        <div id="felios-alert-warning"></div>
+        <div id="felios-alert-danger"></div>
+
     <h4>Button Example</h4>
+    <p>Basic toggle button, with feedback for triggering load events and more</p>
     <div id="felios-button"></div>
-    <h4>Alerts Example</h4>
-    <div id="felios-alert-test"></div>
-    <div id="felios-alert-second"></div>
-    <div id="felios-alert-success"></div>
-    <div id="felios-alert-info"></div>
-    <div id="felios-alert-warning"></div>
-    <div id="felios-alert-danger"></div>
+ 
     <h4>Form Example</h4>
+    <p>Form with realtime input updates and signaling</p>
     <div id="felios-form"></div>
+
     <h4>Switch Example</h4>
+    <p>Simple toggle for night and day mode, for basic user interface accessiblity requirements</p>
     <span id="felios-switch"></span>
+
     <h4>Modal Example</h4>
+    <p>Contextual and event triggered modal or popup for giving feedbacks to users</p>
     <div id="felios-modal"></div>
+
     <h4>Side-Panel Example</h4>
     <div id="felios-side-panel"></div>
     <h4>Notification Example</h4>
@@ -34,8 +55,8 @@
     <div id="felios-progress"></div>
     <h4> Snackbar Example</h4>
     <div id="felios-snackbar"></div>
-    <h4> File upload Example</h4>
-    <div id="felios-fileuploader">
+       <!-- <h4> File upload Example</h4>
+        <div id="felios-fileuploader">
     <style>
     .data-progress{
                     display:block;
@@ -44,6 +65,7 @@
                     border-radius:8px;
                     overflow:hidden;
                     height:32px;
+                  
                 }
 
                 .data-progress  span{
@@ -89,7 +111,7 @@
             </div>
             <br>
         <br>
-    </div>
+    </div> -->
 </body>
 <script src="./felios.js"></script>
 <script src="./felios-button.js"></script>
@@ -103,5 +125,5 @@
 <script src="./felios-menu.js"></script>
 <script src="./felios-snackbar.js"></script>
 <script src="./felios-fab-button.js"></script>
-<script src="./felios-fileuploader.js"></script>
+
 </html>

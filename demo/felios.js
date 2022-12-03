@@ -4,9 +4,9 @@
 
     const NAME = "FELIOS.JS";
     const VERSION = "v0.0.0.1";
-    const DESCRIPTION = "An experimental Stateful Retro-Native UI";
+    const DESCRIPTION = "A Stateful Retro-Native UI [Experimental]";
     const AUTHOR = "Humphrey Pietersen";
-    const CONTRIBUTORS = {"[Humphrey Pieter](https://humphreypietersen.com)"};
+    const CONTRIBUTORS = {};
     const UI = "Default"
     const LICENSE = "MIT";
     const COPYRIGHT = "(c) 2021 Humphrey Pietersen";
@@ -212,3 +212,5 @@ function toggleState(Component, option) {
         }
     })
 };
+
+
