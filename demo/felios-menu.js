@@ -67,6 +67,8 @@ Component.Menu =  new felios("felios-menu",
             
              ::placeholder, input[value]{
                      color: rgba(160, 160,160,1);
+                     border-radius:${(12/16)/2}rem; 
+                     height: ${(32/16)/2}rem; 
                 }
                 #felios-menu{
                     position:relative;
@@ -75,13 +77,15 @@ Component.Menu =  new felios("felios-menu",
                     align-items:center;
                     background: rgba(40,40,40,0.9);
                     height: 45px;
-                     border-radius: 4px;
+                     border-radius:${18/16}rem;
                              width:400px;
                     width:inherit;
                     margin:1em 0;
                     padding:0px 1em;
                    
                     color: var(--onsolid-dark);
+                    padding:${18/16}rem ${24/16}rem; 
+
                 }
                 .mega-menu{
                     position:absolute;
@@ -96,6 +100,7 @@ Component.Menu =  new felios("felios-menu",
                     position:absolute;
                     right:40px;
                     cursor: pointer;
+
                 }
                 
                 #felios-menu .brand{
@@ -119,7 +124,9 @@ Component.Menu =  new felios("felios-menu",
                     height: 32px;
                     min-width:80px;
                         color:rgba(234,234,234,0.7);
-                    border-radius: 4px;
+                   
+                      border-radius:${(12/16)/2}rem; 
+                     height: ${(32/16)/2}rem; 
                 }
                   #felios-menu.emerald{
                       backgournd: green !important;
@@ -135,7 +142,7 @@ Component.Menu =  new felios("felios-menu",
                 }
 
                     #felios-menu ul li{
-                        margin-left: 1em; 
+                        margin: 0  ${(28/16)/2}rem; 
                     }
                     #felios-menu   .menuicon{
                         font-weight:bold;
